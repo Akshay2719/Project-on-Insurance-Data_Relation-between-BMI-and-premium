@@ -1,4 +1,4 @@
-# Linear-Regression-for-Prediction-of-Insurance-Premium-using-the-BMI
+# Multi_Linear-Regression-for-Prediction-of-Insurance-Premium-using-the-BMI
 
 Many factors that affect how much you pay for health insurance are not within your control. Nonetheless, it's good to have an understanding of what they are. 
 Here are some factors that affect how much health insurance premiums cost
